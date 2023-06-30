@@ -4,7 +4,7 @@ Glad you found me! Here you will find my talks.
 Feel free to contact me anytime.
 
 I have grouped them by organization, year and channel where the talk was presented.
-You will find the video for the majority of the presentations and the slides.
+You will find the video for the majority of the presentations and the slides as well.
 
 ## Microsoft
 
@@ -30,6 +30,6 @@ My first fiscal year @ Microsoft! Lots of learning.
 |[XaC Everything as Code – Tudo como Código](https://www.microsoft.com/pt-br/events-hub/brazil/azure-tech-series-xac-everything-as-a-code-tudo-como-um-codigo/)|[here](./microsoft/fiscal-year-2023/pt-br/ats/xac-everything-as-code.pdf)|
 
 
-### Azure Marketplace
+#### Azure Marketplace
 
 - [Marketplace-a-thon - Prework Session 2 (only slides available)](./microsoft/fiscal-year-2023/pt-br/marketplace/marketplace-tech-session.pdf)
