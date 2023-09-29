@@ -33,3 +33,9 @@ My first fiscal year @ Microsoft! Lots of learning.
 #### Azure Marketplace
 
 - [Marketplace-a-thon - Prework Session 2 (only slides available)](./microsoft/fiscal-year-2023/pt-br/marketplace/marketplace-tech-session.pdf)
+
+### Fiscal Year 2024
+
+#### Microsoft Tech Community
+
+- [Optimizing Azure Firewall logging costs](https://techcommunity.microsoft.com/t5/azure-network-security-blog/optimizing-azure-firewall-logging-costs/ba-p/3908958)
