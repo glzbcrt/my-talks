@@ -46,3 +46,4 @@ My first fiscal year @ Microsoft! Lots of learning.
 | Video         | Slides     |
 |---------------|------------|
 | [dev, aumente sua produtividade!](https://www.youtube.com/watch?v=HcxXkaABzpY) | [here](./microsoft/fiscal-year-2024/pt-br/reactor/dev-aumente-sua-produtividade.pdf)|
+| [As Loucas Aventuras no Mundo da Inteligência Artificial](https://www.youtube.com/watch?v=ajXjWOxVQfI) | [here](./microsoft/fiscal-year-2024/pt-br/reactor/as-loucas-aventuras-ai.pdf)|
