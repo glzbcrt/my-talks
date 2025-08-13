@@ -47,3 +47,11 @@ My first fiscal year @ Microsoft! Lots of learning.
 |---------------|------------|
 | [dev, aumente sua produtividade!](https://www.youtube.com/watch?v=HcxXkaABzpY) | [here](./microsoft/fiscal-year-2024/pt-br/reactor/dev-aumente-sua-produtividade.pdf)|
 | [As Loucas Aventuras no Mundo da Inteligência Artificial](https://www.youtube.com/watch?v=ajXjWOxVQfI) | [here](./microsoft/fiscal-year-2024/pt-br/reactor/as-loucas-aventuras-ai.pdf)|
+
+### Fiscal Year 2026
+
+#### Reactor
+
+| Video         | Slides     |
+|---------------|------------|
+| [Como modelos linguísticos funcionam?](https://www.youtube.com) | [here](./microsoft/fiscal-year-2026/reactor/como-modelos-linguisticos-funcionam/)|
