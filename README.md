@@ -54,4 +54,5 @@ My first fiscal year @ Microsoft! Lots of learning.
 
 | Video         | Slides     |
 |---------------|------------|
-| [Como modelos linguísticos funcionam?](https://www.youtube.com) | [here](./microsoft/fiscal-year-2026/reactor/como-modelos-linguisticos-funcionam/)|
+| [Como modelos linguísticos funcionam?](https://www.youtube.com/watch?v=J7ckNkPPriU) | [here](./microsoft/fiscal-year-2026/reactor/como-modelos-linguisticos-funcionam/)|
+
